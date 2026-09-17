@@ -10,7 +10,7 @@
 main:
   - title: "Education"
     url: /education/
-    
+
   - title: "Publications"
     url: /publications/
   
@@ -31,6 +31,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "Others"
+    url: /others/
     
   - title: "CV"
     url: /cv/
