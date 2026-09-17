@@ -8,7 +8,9 @@ date: 2024-06-04
 location: "Universiti Putra Malaysia"
 ---
 
-<img src="/images/talks-upm-quantum-wave-equations.png" alt="A Simplified Method for Solving Quantum Wave Equations - title slide" style="max-width:280px; display:block; margin: 10px 0;">
-
-Delivered a talk titled "A Simplified Method for Solving Quantum Wave Equations" at the Theoretical Physics group meeting organised by [Dr. Nurisya Mohd Shah](https://sites.google.com/upm.edu.my/nurisyamohdshah/home) at Universiti Putra Malaysia.
-
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+  <img src="/images/talks-upm-quantum-wave-equations.png" alt="A Simplified Method for Solving Quantum Wave Equations - title slide" style="max-width:280px; width:100%; flex-shrink:0;">
+  <div style="flex:1; min-width:200px;">
+    Delivered a talk titled "A Simplified Method for Solving Quantum Wave Equations" at the Theoretical Physics group meeting organised by <a href="https://sites.google.com/upm.edu.my/nurisyamohdshah/home">Dr. Nurisya Mohd Shah</a> at Universiti Putra Malaysia held on June 4, 2024.
+  </div>
+</div>

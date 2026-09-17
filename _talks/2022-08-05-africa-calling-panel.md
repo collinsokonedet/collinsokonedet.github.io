@@ -8,7 +8,9 @@ date: 2022-08-05
 location: "Virtual"
 ---
 
-<img src="/images/talks-africa-calling-panel.png" alt="Africa Calling Symposium panel - title slide" style="max-width:280px; display:block; margin: 10px 0;">
-
-Served as a workshop panellist on Human Dimensions at the [Africa Calling Symposium](https://winterschool.cc/past/africa-calling) of the Winter School on Computational Chemistry.
-
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+  <img src="/images/talks-africa-calling-panel.png" alt="Africa Calling Symposium panel - title slide" style="max-width:280px; width:100%; flex-shrink:0;">
+  <div style="flex:1; min-width:200px;">
+    Served as a workshop panellist on Human Dimensions at the <a href="https://winterschool.cc/past/africa-calling">Africa Calling Symposium</a> of the Winter School on Computational Chemistry, held August 5, 2022.
+  </div>
+</div>
