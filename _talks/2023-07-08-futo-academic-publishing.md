@@ -8,8 +8,7 @@ date: 2023-07-08
 location: "Virtual"
 ---
 
-<img src="/images/talks-futo-academic-publishing.png" alt="Academic Publishing best practices - title slide" style="max-width:300px; float:left; margin-right:20px;">
+<img src="/images/talks-futo-academic-publishing.png" alt="Academic Publishing best practices - title slide" style="max-width:280px; display:block; margin: 10px 0;">
 
 Delivered a virtual talk titled "Academic Publishing: Best Practices for Quality Research Outputs" at the Federal University of Technology Owerri Multidisciplinary Research Team Seminar Series.
 
-<div style="clear:both;"></div>
