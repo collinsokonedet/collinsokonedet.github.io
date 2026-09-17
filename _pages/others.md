@@ -16,8 +16,6 @@ Below is my short poem contribution to the #365daypoetryforadvocacyandsocialchan
 ## Mother Earth, Mother of All
 ### by Collins Edet
 
-<!-- MOTHER EARTH, MOTHER OF ALL by Collins Edet
-
 ​Mother earth, Mother of all
 You gave us good land, we changed the brand
 You gave us good soil, we preferred to spill it with oil
@@ -40,6 +38,7 @@ Mother earth, Mother of all
 You gave us forest, we chose unrest
 You gave us rivers of Joy
 We prefer griever's of tears
-You are so good to us, yet we love the woods -->
+You are so good to us, yet we love the woods
+
 
 [Click to see more](https://sprinklestoriez.blogspot.com/2018/06/mother-earth-mother-of-all-by-collins.html?spref=fb&fbclid=IwAR3kfT2VxB42v1lU2SHPwjjgWR4iZ7WXEa2OUs_ttzMHfoBx8q0oilBSJeE)
