@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a University of Pretoria Postdoctoral Fellow in the Department of Physics, Faculty of Natural and Agricultural Sciences, at the University of Pretoria, South Africa. Prior to joining UP, I held a short-term postdoctoral position in the Faculty of Electronic Engineering & Technology at Universiti Malaysia Perlis, Malaysia. I was also a visiting researcher in the Department of Quantum Mechanics at the Institute of Physics, Nicolaus Copernicus University in Toruń, Poland, where I worked with Prof. Karolina Słowik in the Quantum Nano-optics group.
+I am a University of Pretoria Postdoctoral Fellow, working  in the [Biophysics Research Group](https://biophysicsup.netlify.app/people/) Department of Physics, Faculty of Natural and Agricultural Sciences, at the University of Pretoria, South Africa. Prior to joining UP, I held a short-term postdoctoral position in the Faculty of Electronic Engineering & Technology at Universiti Malaysia Perlis, Malaysia. I was also a visiting researcher in the Department of Quantum Mechanics at the Institute of Physics, Nicolaus Copernicus University in Toruń, Poland, where I worked with Prof. Karolina Słowik in the Quantum Nano-optics theory group.
 
 I obtained my PhD in Theoretical Physics under the supervision of Prof. Norshamsuri Ali at the Faculty of Intelligent Computing, Universiti Malaysia Perlis. During my doctoral studies, I spent part of my PhD research as a visiting PhD student in Prof. Karolina Słowik's group in the Department of Quantum Mechanics at Nicolaus Copernicus University in Toruń. My doctoral research focused on thermodynamic processes and quantum correlations in hybrid quantum systems.
 
