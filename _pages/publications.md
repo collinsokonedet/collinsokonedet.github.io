@@ -11,32 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
+## Journal Articles
 
 ### 2026
 
-73. **C.O. Edet**, E.P. Inyang, O. Abah, N. Ali. Controllable diatomic molecular quantum thermodynamic machines. *European Physical Journal Plus*, 141(3) (2026). [DOI](https://doi.org/10.1140/epjp/s13360-026-07434-w)
+71. **C.O. Edet**, E.P. Inyang, O. Abah, N. Ali. Controllable diatomic molecular quantum thermodynamic machines. *European Physical Journal Plus*, 141(3) (2026). [DOI](https://doi.org/10.1140/epjp/s13360-026-07434-w)
 
-72. **C.O. Edet**, Norshamsuri Ali, Rosdisham Endut, O. Abah. Quantum Otto Machine With q-Deformed Pöschl–Teller Oscillator. *Annalen der Physik*, 538(7) (2026). [DOI](https://doi.org/10.1002/andp.70241)
+70. **C.O. Edet**, Norshamsuri Ali, Rosdisham Endut, O. Abah. Quantum Otto Machine With q-Deformed Pöschl–Teller Oscillator. *Annalen der Physik*, 538(7) (2026). [DOI](https://doi.org/10.1002/andp.70241)
 
 
 ### 2025
 
-71. C. Ertugay, **C.O. Edet**, A.N. Ikot, B.C. Lütfüoğlu. Thermo-Magnetic properties of non-relativistic particles under the effect of energy-dependent Hellmann potential. *Molecular Physics*, 123(11) (2025). [DOI](https://doi.org/10.1080/00268976.2024.2411327)
+69. C. Ertugay, **C.O. Edet**, A.N. Ikot, B.C. Lütfüoğlu. Thermo-Magnetic properties of non-relativistic particles under the effect of energy-dependent Hellmann potential. *Molecular Physics*, 123(11) (2025). [DOI](https://doi.org/10.1080/00268976.2024.2411327)
 
 
 ### 2024
 
-70. **C.O. Edet**, E.P. Agbo, H.O. Edet, Nnanake-Abasi O. Offiong, John B. Edet, E.B. Ettah. Recent progress in graphene quantum dots for energy applications and storage devices: A review. *Graphene Quantum Dots (GQDs): Advances in Research and Applications*, 141-163 (2024).
+68. **C.O. Edet**, K. Lakaal, J. El Hamdaoui, K. Feddi, L.M. Pérez, E. Feddi, A.N. Ikot, N. Ali, Shamsul Amir Abdul Rais, M. Asjad. Investigating the magneto-transport and thermal properties of 2D electron systems under the influence of the Aharonov–Bohm field and Eckart potential interaction. *Physica B: Condensed Matter*, 673 (2024). [DOI](https://doi.org/10.1016/j.physb.2023.415438)
 
-69. **C.O. Edet**, K. Lakaal, J. El Hamdaoui, K. Feddi, L.M. Pérez, E. Feddi, A.N. Ikot, N. Ali, Shamsul Amir Abdul Rais, M. Asjad. Investigating the magneto-transport and thermal properties of 2D electron systems under the influence of the Aharonov–Bohm field and Eckart potential interaction. *Physica B: Condensed Matter*, 673 (2024). [DOI](https://doi.org/10.1016/j.physb.2023.415438)
+67. K. Lakaal, L.M. Pérez, M. Kria, J. El Hamdaoui, **C.O. Edet**, V. Prasad, D. Laroze, E. Feddi. Effects of electron–phonon coupling and Rashba spin–orbit interaction on thermodynamic and magnetic properties of quantum dots. *Chinese Journal of Physics*, 89, 390-403 (2024). [DOI](https://doi.org/10.1016/j.cjph.2023.10.045)
 
-68. K. Lakaal, L.M. Pérez, M. Kria, J. El Hamdaoui, **C.O. Edet**, V. Prasad, D. Laroze, E. Feddi. Effects of electron–phonon coupling and Rashba spin–orbit interaction on thermodynamic and magnetic properties of quantum dots. *Chinese Journal of Physics*, 89, 390-403 (2024). [DOI](https://doi.org/10.1016/j.cjph.2023.10.045)
+66. **Collins O. Edet**, Muhammad Asjad, Denys Dutykh, Norshamsuri Ali, Obinna Abah. Entropy production rate and correlations in a cavity magnomechanical system. *Physical Review Research*, 6(3) (2024). [DOI](https://doi.org/10.1103/PhysRevResearch.6.033037)
 
-67. **Collins O. Edet**, Muhammad Asjad, Denys Dutykh, Norshamsuri Ali, Obinna Abah. Entropy production rate and correlations in a cavity magnomechanical system. *Physical Review Research*, 6(3) (2024). [DOI](https://doi.org/10.1103/PhysRevResearch.6.033037)
-
-66. Obinna Abah, **Collins O. Edet**, Norshamsuri Ali, Berihu Teklu, Muhammad Asjad. Irreversibility in an Optical Parametric Driven Optomechanical System. *Annalen der Physik*, 536(3) (2024). [DOI](https://doi.org/10.1002/andp.202300400)
-
-65. Fatin Yusoff, Muhammad Zulkifli, Norshamsuri Ali, **Collins Edet**, Muhammad Asjad, Rosdisham Endut, Syed Aljunid, Mat Ismail. Stationary entanglement in hybrid optomechanical systems. *AIP Conference Proceedings*, 2898(1) (2024). [DOI](https://doi.org/10.1063/5.0195712)
+65. Obinna Abah, **Collins O. Edet**, Norshamsuri Ali, Berihu Teklu, Muhammad Asjad. Irreversibility in an Optical Parametric Driven Optomechanical System. *Annalen der Physik*, 536(3) (2024). [DOI](https://doi.org/10.1002/andp.202300400)
 
 
 ### 2023
@@ -180,3 +177,14 @@ author_profile: true
 2. Uduakobong S. Okorie, Akpan N. Ikot, **C.O. Edet**, I.O. Akpan, R. Sever, G.J. Rampho. Solutions of the klein gordon equation with generalized hyperbolic potential in d-dimensions. *Journal of Physics Communications*, 3(9) (2019). [DOI](https://doi.org/10.1088/2399-6528/ab42c6)
 
 1. **C.O. Edet**, P.O. Okoi. Any l-state solutions of the Schrödinger equation for q-deformed Hulthen plus generalized inverse quadratic Yukawa potential in arbitrary dimensions. *Revista Mexicana de Fisica*, 65(4), 333-344 (2019). [DOI](https://doi.org/10.31349/REVMEXFIS.65.333)
+
+
+## Book Chapters
+
+1. **C.O. Edet**, E.P. Agbo, H.O. Edet, Nnanake-Abasi O. Offiong, John B. Edet, E.B. Ettah. Recent progress in graphene quantum dots for energy applications and storage devices: A review. *Graphene Quantum Dots (GQDs): Advances in Research and Applications*, 141-163 (2024).
+
+
+## Conference Papers
+
+1. Fatin Yusoff, Muhammad Zulkifli, Norshamsuri Ali, **Collins Edet**, Muhammad Asjad, Rosdisham Endut, Syed Aljunid, Mat Ismail. Stationary entanglement in hybrid optomechanical systems. *AIP Conference Proceedings*, 2898(1) (2024). [DOI](https://doi.org/10.1063/5.0195712)
+
