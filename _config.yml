@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Collins Okon Edet"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "South Africa"
+  employer         : "University of Pretoria"
   uri              : # URL
   email            : "collinsokonedet@gmail.com" 
 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "collinsokonedet"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
