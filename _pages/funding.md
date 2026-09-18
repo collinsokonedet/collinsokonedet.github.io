@@ -15,5 +15,6 @@ My research is made possible through funding and support from agencies, organisa
   <img src="/images/funding-oist.png" alt="Okinawa Institute of Science and Technology logo" style="max-width:180px; width:100%;">
   <img src="/images/funding-chalmers.png" alt="Chalmers University of Technology logo" style="max-width:150px; width:100%;">
   <img src="/images/funding-sigma-xi.png" alt="Sigma Xi Scientific Research Honor Society logo" style="max-width:200px; width:100%;">
+  <img src="/images/ffunding-unimap-logo.png" alt="Universiti Malaysia Perlis logo" style="max-width:200px; width:100%;">
   <img src="/images/funding-up-logo.png" alt="University of Pretoria logo" style="max-width:200px; width:100%;">
 </div>
