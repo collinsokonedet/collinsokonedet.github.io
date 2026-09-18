@@ -18,8 +18,9 @@ author_profile: true
 ---
 
 ### Affiliation
-
-- **July 2022 – Present**: Research Fellow, Institute of Engineering Mathematics, Universiti Malaysia Perlis, Malaysia.
+- **Apr. 2026 – Present**: Postdoctoral Research Fellow, Department of Physics, Universiti of Pretoria, South Africa.
+- **Dec. 2025 – Mar. 2026**: Postdoctoral Research Fellow, Faculty of Electronic Engineering & Technology, Universiti Malaysia Perlis, Malaysia.
+- **July 2022 – Nov. 2025**: Graduate Research Assistant, Faculty of Intelligent Computing, Universiti Malaysia Perlis, Malaysia.
 - **Nov. 2021 – Present**: Lecturer and Researcher, Department of Physics, University of Cross River State (UNICROSS), Calabar, Nigeria.
 - **Feb. – July 2025**: Visiting Researcher, Quantum Physics Department, Institute of Physics, Nicolaus Copernicus University in Toruń, Poland (6 months).
 - **Nov. 2023 – April 2024**: Research Intern (Visiting PhD Student), Quantum Physics Department, Institute of Physics, Nicolaus Copernicus University in Toruń, Poland.
