@@ -39,4 +39,8 @@ The Schrödinger equation is a fundamental equation in quantum mechanics that de
 
 ## Funding and Support
 
-*(Add your funding/support logos or acknowledgments here.)*
+<div style="display:flex; gap:30px; align-items:center; flex-wrap:wrap; margin-top: 15px;">
+  <img src="/images/funding-tetfund.png" alt="TETFund - Tertiary Education Trust Fund logo" style="max-width:180px; width:100%;">
+  <img src="/images/funding-malaysia-mohe.jpg" alt="Malaysia Ministry of Higher Education logo" style="max-width:180px; width:100%;">
+  <img src="/images/funding-ieee-photonics.png" alt="IEEE Photonics Society logo" style="max-width:220px; width:100%;">
+</div>
